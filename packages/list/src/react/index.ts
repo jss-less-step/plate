@@ -3,8 +3,8 @@
  */
 
 export * from './ListPlugin';
-export * from './TodoListPlugin';
 export * from './onKeyDownList';
+export * from './TodoListPlugin';
 export * from './withDeleteBackwardList';
 export * from './withInsertBreakList';
 export * from './withList';

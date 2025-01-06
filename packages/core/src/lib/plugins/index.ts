@@ -4,10 +4,10 @@
 
 export * from './AstPlugin';
 export * from './DOMPlugin';
+export * from './getCorePlugins';
 export * from './HistoryPlugin';
 export * from './InlineVoidPlugin';
 export * from './ParserPlugin';
-export * from './getCorePlugins';
 export * from './debug/index';
 export * from './editor-protocol/index';
 export * from './html/index';

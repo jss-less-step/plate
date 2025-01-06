@@ -3,6 +3,6 @@
  */
 
 export * from './IndentPlugin';
-export * from './TextIndentPlugin';
 export * from './onKeyDownIndent';
+export * from './TextIndentPlugin';
 export * from './hooks/index';

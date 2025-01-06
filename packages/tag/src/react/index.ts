@@ -3,6 +3,6 @@
  */
 
 export * from './TagPlugin';
-export * from './useSelectEditorCombobox';
 export * from './useSelectableItems';
 export * from './useSelectedItems';
+export * from './useSelectEditorCombobox';

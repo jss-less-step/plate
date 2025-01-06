@@ -3,13 +3,13 @@
  */
 
 export * from './Box';
-export * from './MemoizedChildren';
-export * from './PortalBody';
-export * from './Text';
 export * from './composeEventHandlers';
 export * from './createPrimitiveComponent';
 export * from './createPrimitiveElement';
 export * from './createSlotComponent';
+export * from './MemoizedChildren';
+export * from './PortalBody';
+export * from './Text';
 export * from './useComposedRef';
 export * from './useEffectOnce';
 export * from './useIsomorphicLayoutEffect';
